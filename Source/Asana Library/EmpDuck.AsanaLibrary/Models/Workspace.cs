@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace AsanaLibrary.Models
+namespace EmpDuck.AsanaLibrary.Models
 {
     public class Workspace
     {
@@ -9,7 +9,7 @@ namespace AsanaLibrary.Models
 
         [JsonProperty("name")]
         public string Name { get; set; }
-        
+
         [JsonProperty("is_organization")]
         public bool IsOrganization { get; set; }
     }

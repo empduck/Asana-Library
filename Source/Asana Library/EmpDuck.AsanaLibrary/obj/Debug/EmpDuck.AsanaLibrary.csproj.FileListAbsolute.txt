@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\bin\Debug\EmpDuck.AsanaLibrary.dll
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\bin\Debug\EmpDuck.AsanaLibrary.pdb
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\obj\Debug\EmpDuck.AsanaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\obj\Debug\EmpDuck.AsanaLibrary.dll
+C:\Users\josep\OneDrive\Documents\GitHub\Asana-Library\Source\Asana Library\EmpDuck.AsanaLibrary\obj\Debug\EmpDuck.AsanaLibrary.pdb

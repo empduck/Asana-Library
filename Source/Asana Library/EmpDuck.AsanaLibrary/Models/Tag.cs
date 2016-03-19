@@ -1,7 +1,7 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
+using Newtonsoft.Json;
 
-namespace AsanaLibrary.Models
+namespace EmpDuck.AsanaLibrary.Models
 {
     public class Tag
     {
